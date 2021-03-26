@@ -1,0 +1,9 @@
+C:\Users\legox\source\repos\loto6\loto6\bin\Debug\loto6.exe.config
+C:\Users\legox\source\repos\loto6\loto6\bin\Debug\loto6.exe
+C:\Users\legox\source\repos\loto6\loto6\bin\Debug\loto6.pdb
+C:\Users\legox\source\repos\loto6\loto6\obj\Debug\loto6.csprojAssemblyReference.cache
+C:\Users\legox\source\repos\loto6\loto6\obj\Debug\loto6.Form1.resources
+C:\Users\legox\source\repos\loto6\loto6\obj\Debug\loto6.Properties.Resources.resources
+C:\Users\legox\source\repos\loto6\loto6\obj\Debug\loto6.csproj.GenerateResource.cache
+C:\Users\legox\source\repos\loto6\loto6\obj\Debug\loto6.exe
+C:\Users\legox\source\repos\loto6\loto6\obj\Debug\loto6.pdb
